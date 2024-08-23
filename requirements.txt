@@ -1,0 +1,13 @@
+johnnydep
+  anytree
+    six
+  cachetools
+  oyaml
+    pyyaml
+  packaging
+  pip
+  structlog
+  tabulate
+  toml
+  wheel
+  wimpy
